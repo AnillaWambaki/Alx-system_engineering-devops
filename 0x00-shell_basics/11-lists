@@ -1,1 +1,2 @@
-ls -al -tr /boot /tmp/alx-system_engineering-devops /tmp/alx-system_engineering-devops/0x00-shell_basics
+#!bin/bash
+ls -al -r /boot /tmp/alx-system_engineering-devops tmp/alx-system_engineering-devops/0x00-shell_basics
